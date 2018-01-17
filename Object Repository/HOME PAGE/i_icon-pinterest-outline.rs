@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_icon-pinterest-outline</name>
+   <tag></tag>
+   <elementGuidId>2e696044-30e3-41e6-86cb-6dfcae859504</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-pinterest-outline</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scrolled&quot;]/body[@class=&quot;no-touch js-non-mobile&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;inner&quot;]/footer[@class=&quot;footer&quot;]/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;social-footer&quot;]/ul[@class=&quot;social-list&quot;]/li[3]/a[1]/i[@class=&quot;icon-pinterest-outline&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

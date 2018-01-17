@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_icon-up-thin</name>
+   <tag></tag>
+   <elementGuidId>2297b9b9-d504-4d8b-80c0-650777238043</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-up-thin</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scrolled&quot;]/body[@class=&quot;no-touch js-non-mobile&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;inner&quot;]/footer[@class=&quot;footer&quot;]/div[@class=&quot;back-up-footer text-center&quot;]/a[@class=&quot;back-to-top&quot;]/i[@class=&quot;icon-up-thin&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

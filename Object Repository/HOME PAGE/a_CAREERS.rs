@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CAREERS</name>
+   <tag></tag>
+   <elementGuidId>e98c59bc-c54c-4d13-ab05-7c0bbffc9cb2</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/careers/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CAREERS</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scrolled&quot;]/body[@class=&quot;no-touch js-non-mobile&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;inner&quot;]/footer[@class=&quot;footer&quot;]/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;footer-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-16 col-xs-32&quot;]/ul[@class=&quot;footer-links clearfix&quot;]/li[2]/ul[@class=&quot;sub-links&quot;]/li[2]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>

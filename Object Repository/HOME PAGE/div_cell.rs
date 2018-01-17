@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_cell</name>
+   <tag></tag>
+   <elementGuidId>9d01faf3-e1a1-46b7-aa4b-7e4c88e21d6c</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;no-touch js-non-mobile&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;inner&quot;]/main[1]/div[2]/div[1]/div[@class=&quot;section-hero-image&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;items count-down-timer&quot;]/div[@class=&quot;inner&quot;]/div[@class=&quot;vertical&quot;]/div[@class=&quot;cell&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

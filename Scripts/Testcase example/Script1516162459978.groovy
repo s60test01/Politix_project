@@ -19,3 +19,41 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.openBrowser('https://uat.samanthawills.com.au/')
+
+WebUI.maximizeWindow()
+
+WebUI.verifyElementVisible(findTestObject('HOME PAGE/Logo SW'))
+
+not_run: WebUI.verifyAllLinksOnCurrentPageAccessible(false, [])
+
+WebUI.verifyElementPresent(findTestObject('HOME PAGE/span_USD'), 40)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/span_TAKE ME BACK'), 40)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-youtube-outline'), 40)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-wishlist-outline'), 40)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-up-thin'), 40)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-twitter-outline'), 40)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-tumblr'), 40)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-pinterest-outline'), 40)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-instagram-outline'), 0)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-facebook-outline'), 0)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-email-outline'), 0)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-account-outline hidden-'), 0)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/img (1)'), 0)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/img (2)'), 0)
+
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/img'), 0)
+

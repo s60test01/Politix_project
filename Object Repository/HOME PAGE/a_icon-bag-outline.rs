@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_icon-bag-outline</name>
+   <tag></tag>
+   <elementGuidId>6106351b-3d5b-4d85-8412-5475b3f7db5d</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/checkout/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-bag-outline</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;no-touch js-non-mobile&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-container&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header-inner&quot;]/div[@class=&quot;main-header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;quick-access&quot;]/div[@class=&quot;header-links-item mini-cart&quot;]/div[@class=&quot;group-inner&quot;]/a[@class=&quot;icon-bag-outline&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

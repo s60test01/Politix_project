@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_icon-wishlist-outline</name>
+   <tag></tag>
+   <elementGuidId>51a2d4c2-722e-45ba-8f0e-f663c587170c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-wishlist-outline</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;no-touch js-non-mobile&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-container&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header-inner&quot;]/div[@class=&quot;main-header&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;quick-access&quot;]/div[@class=&quot;header-links-item wishlist hidden-md-down&quot;]/a[1]/div[@class=&quot;group-inner&quot;]/i[@class=&quot;icon-wishlist-outline&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
