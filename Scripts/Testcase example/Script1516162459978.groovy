@@ -51,9 +51,9 @@ WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-email
 
 WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-account-outline hidden-'), 0)
 
-WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/img (1)'), 0)
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/icon key 1'), 0)
 
-WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/img (2)'), 0)
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/icon key 2'), 0)
 
-WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/img'), 0)
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/icon key 3'), 0)
 
