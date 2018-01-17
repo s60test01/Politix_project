@@ -29,6 +29,8 @@ not_run: WebUI.verifyAllLinksOnCurrentPageAccessible(false, [])
 
 WebUI.verifyElementPresent(findTestObject('HOME PAGE/span_USD'), 40)
 
+WebUI.scrollToPosition(50, 60)
+
 WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/span_TAKE ME BACK'), 40)
 
 WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-youtube-outline'), 40)
@@ -56,4 +58,6 @@ WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/icon key 1')
 WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/icon key 2'), 0)
 
 WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/icon key 3'), 0)
+
+WebUI.takeScreenshot()
 
