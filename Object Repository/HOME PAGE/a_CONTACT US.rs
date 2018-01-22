@@ -4,6 +4,12 @@
    <name>a_CONTACT US</name>
    <tag></tag>
    <elementGuidId>b76d0fee-99e1-4b0f-ba41-866f6c404056</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[count(. | //*[@href = '/FAQ/contacts/']) = count(//*[@href = '/FAQ/contacts/'])][count(. | //*[text() = 'CONTACT US']) = count(//*[text() = 'CONTACT US'])][count(. | /html[@class=&quot;scrolled&quot;]/body[@class=&quot;no-touch js-non-mobile&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;inner&quot;]/footer[@class=&quot;footer&quot;]/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;nav-footer&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;nav-list&quot;]/li[1]/a[1]) = count(/html[@class=&quot;scrolled&quot;]/body[@class=&quot;no-touch js-non-mobile&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;inner&quot;]/footer[@class=&quot;footer&quot;]/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;nav-footer&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;nav-list&quot;]/li[1]/a[1])]</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>

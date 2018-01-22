@@ -45,19 +45,19 @@ WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-tumbl
 
 WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-pinterest-outline'), 40)
 
-WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-instagram-outline'), 0)
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-instagram-outline'), 40)
 
-WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-facebook-outline'), 0)
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-facebook-outline'), 40)
 
-WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-email-outline'), 0)
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-email-outline'), 40)
 
-WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-account-outline hidden-'), 0)
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/i_icon-account-outline hidden-'), 40)
 
-WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/icon key 1'), 0)
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/icon key 1'), 40)
 
-WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/icon key 2'), 0)
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/icon key 2'), 40)
 
-WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/icon key 3'), 0)
+WebUiBuiltInKeywords.verifyElementPresent(findTestObject('HOME PAGE/icon key 3'), 40)
 
 WebUI.takeScreenshot()
 

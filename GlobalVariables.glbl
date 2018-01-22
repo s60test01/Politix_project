@@ -2,4 +2,9 @@
 <GlobalVariableEntities>
    <description></description>
    <tag></tag>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>40</initValue>
+      <name>Timeout</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

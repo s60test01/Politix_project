@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Samanthawills" time="30" tests="1" failures="0" errors="0">
+   <testsuite name="Samanthawills" tests="1" failures="0" errors="0" time="30" timestamp="2018-01-17 15:28:43" hostname="Luan.Nguyen - S60-115.lanworks.local" id="Test Suites/Samanthawills">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\luan.nguyen\\git\\Projects-s60\\Reports\\Samanthawills\\20180117_152842"/>
+         <property name="logFiles" value="C:\\Users\\luan.nguyen\\git\\Projects-s60\\Reports\\Samanthawills\\20180117_152842\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\luan.nguyen\\git\\Projects-s60\\Reports\\Samanthawills\\20180117_152842\\1516177751998.png"/>
+         <property name="hostName" value="Luan.Nguyen - S60-115.lanworks.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+         <property name="browser" value="Chrome 63.0.3239.132"/>
+         <property name="hostAddress" value="172.20.1.229"/>
+         <property name="sessionId" value="31bdc33e6e399e552573447433f3d079"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Homepage" classname="Test Cases/Homepage" status="PASSED">
+         <system-out><![CDATA[2018-01-17 15:28:44 - [TEST_CASE][PASSED] - Test Cases/Homepage: Test Cases/Homepage
+
+2018-01-17 15:28:44 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://uat.samanthawills.com.au/'
+
+2018-01-17 15:29:09 - [MESSAGE][PASSED] - Browser is opened with url: 'https://uat.samanthawills.com.au/'
+
+2018-01-17 15:29:09 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-01-17 15:29:10 - [MESSAGE][PASSED] - Current window maximized
+
+2018-01-17 15:29:10 - [TEST_STEP][PASSED] - verifyElementVisible: Object 'Object Repository/HOME PAGE/Logo SW' is visible
+
+2018-01-17 15:29:10 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/Logo SW' is visible
+
+2018-01-17 15:29:10 - [TEST_STEP][NOT_RUN] - verifyAllLinksOnCurrentPageAccessible: NOT_RUN: verifyAllLinksOnCurrentPageAccessible
+
+2018-01-17 15:29:10 - [MESSAGE][NOT_RUN] - NOT_RUN: verifyAllLinksOnCurrentPageAccessible
+
+2018-01-17 15:29:10 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/span_USD' is present
+
+2018-01-17 15:29:10 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/span_USD' is present
+
+2018-01-17 15:29:10 - [TEST_STEP][PASSED] - scrollToPosition: Browser is scrolled to position x = 50, y = 60
+
+2018-01-17 15:29:10 - [MESSAGE][PASSED] - Browser is scrolled to position x = 50, y = 60
+
+2018-01-17 15:29:10 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/span_TAKE ME BACK' is present
+
+2018-01-17 15:29:10 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/span_TAKE ME BACK' is present
+
+2018-01-17 15:29:10 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/i_icon-youtube-outline' is present
+
+2018-01-17 15:29:10 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/i_icon-youtube-outline' is present
+
+2018-01-17 15:29:10 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/i_icon-wishlist-outline' is present
+
+2018-01-17 15:29:10 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/i_icon-wishlist-outline' is present
+
+2018-01-17 15:29:10 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/i_icon-up-thin' is present
+
+2018-01-17 15:29:10 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/i_icon-up-thin' is present
+
+2018-01-17 15:29:10 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/i_icon-twitter-outline' is present
+
+2018-01-17 15:29:11 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/i_icon-twitter-outline' is present
+
+2018-01-17 15:29:11 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/i_icon-tumblr' is present
+
+2018-01-17 15:29:11 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/i_icon-tumblr' is present
+
+2018-01-17 15:29:11 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/i_icon-pinterest-outline' is present
+
+2018-01-17 15:29:11 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/i_icon-pinterest-outline' is present
+
+2018-01-17 15:29:11 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/i_icon-instagram-outline' is present
+
+2018-01-17 15:29:11 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/i_icon-instagram-outline' is present
+
+2018-01-17 15:29:11 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/i_icon-facebook-outline' is present
+
+2018-01-17 15:29:11 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/i_icon-facebook-outline' is present
+
+2018-01-17 15:29:11 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/i_icon-email-outline' is present
+
+2018-01-17 15:29:11 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/i_icon-email-outline' is present
+
+2018-01-17 15:29:11 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/i_icon-account-outline hidden-' is present
+
+2018-01-17 15:29:11 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/i_icon-account-outline hidden-' is present
+
+2018-01-17 15:29:11 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/icon key 1' is present
+
+2018-01-17 15:29:11 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/icon key 1' is present
+
+2018-01-17 15:29:11 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/icon key 2' is present
+
+2018-01-17 15:29:11 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/icon key 2' is present
+
+2018-01-17 15:29:11 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/HOME PAGE/icon key 3' is present
+
+2018-01-17 15:29:11 - [MESSAGE][PASSED] - Object 'Object Repository/HOME PAGE/icon key 3' is present
+
+2018-01-17 15:29:11 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-01-17 15:29:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\luan.nguyen\\git\\Projects-s60\\Reports\\Samanthawills\\20180117_152842\\1516177751998.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-01-17 15:28:43 - [TEST_SUITE][PASSED] - Samanthawills: Test Cases/Homepage]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

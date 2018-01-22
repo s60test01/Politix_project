@@ -4,7 +4,7 @@
    <name>Samanthawills</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-01-17T14:08:52</lastRun>
+   <lastRun>2018-01-17T15:28:42</lastRun>
    <mailRecipient>luan.nguyen@s60.com.au;</mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
